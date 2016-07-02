@@ -1,4 +1,5 @@
 # hello-world
-Resources 
+About Me
 I am excited to learn github
 My cat is attempting to learn all my account passwords
+I like pickles and sardines
